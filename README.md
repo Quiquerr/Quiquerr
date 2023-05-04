@@ -6,4 +6,18 @@ Actualmente estoy dentro del _bootcamp_ para lograr ser un **Full-Stsck**.
 
 ## Comamndos aprendidos en la terminal 
 
-|Commando----------------|---------Descripcion
+|**Commando**|**Descripción**|
+|------------|---------------|
+|**ls**      |Muestra el _contenido_ que hay en un _directorio._|
+|**mkdir**   |Crea una _carpeta_.|
+|**cd**      |Permite _cambiar de directorio_.|
+|**pwd**     |_Muestra_ la ubicación en _el directorio actual_-|
+|**rm**      |_Elimina archivos y directorios_.|
+
+
+## Alias de los comandos
+
+|**Alias**|**Comando**|**Descripción**|
+|---------|-----------|---------------|
+|**rm**   |**Remove** |_Elimina archivos y directorios_.|
+|**cl**   |**Clear**  |_Limpia la pantalla_.|
